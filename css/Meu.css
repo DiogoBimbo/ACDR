@@ -1,0 +1,323 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url('https://fonts.googleapis.com/css?family=Arvo&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Didact+Gothic');
+
+.color {
+  background-color: #622424;
+}
+
+#inicio {}
+
+.ac {
+  font-family: 'Arvo', serif;
+  font-weight: lighter;
+  font-size: 28px;
+  color: #fff;
+}
+
+.ac:hover {
+  color: #fff;
+}
+
+.menu {
+  font-family: 'Oswald', sans-serif;
+  font-weight: lighter;
+  font-size: 18px;
+  margin-right: 20px;
+  color: #fff;
+}
+
+.menu1 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: lighter;
+  font-size: 18px;
+  margin-right: 20px;
+}
+
+.menu:hover {
+  color: #dc3545;
+  transition: 600ms;
+}
+
+.titulos {
+  color: #fff;
+  text-align: center;
+  padding-top: 18rem;
+  font-family: 'Oswald', sans-serif;
+  font-size: 50px;
+}
+
+.frase {
+  color: #fff;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 40px;
+}
+
+.container-full {
+  margin: 0 auto;
+  width: 100%;
+}
+
+.banner {
+  background-image: url(../images/banner.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  width: 100%;
+}
+
+.botao {
+  width: 8rem;
+  height: 55px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 24px;
+}
+
+.subTitulos {
+  /* color: #fff; */
+  text-align: center;
+  font-family: 'Arvo', serif;
+  font-size: 80px;
+}
+
+.text {
+  /* color: #fff; */
+  text-align: justify;
+  font-family: 'Didact Gothic', sans-serif;
+  font-size: 24px;
+}
+
+.Noticias {
+  width: 20rem;
+  height: 55px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 26px;
+}
+
+.preto {
+  background-color: #000;
+}
+
+.texto-card {
+  text-align: justify;
+  font-family: 'Didact Gothic', sans-serif;
+  font-size: 20px;
+}
+
+.cor {
+  background-color: #1b1c1c;
+}
+#exampleFormControlTextarea1{
+  resize: none;
+}
+.branco {
+  color: #fff;
+}
+
+.subNot {
+  font-family: 'Oswald', sans-serif;
+  font-size: 28px;
+  text-align: center;
+}
+
+.tm {
+  height: 18rem;
+}
+
+.cursos {
+  border-radius: 100%;
+  background-color: rgb(121, 121, 121);
+  width: 200px;
+  height: 200px;
+}
+
+.carta {
+  font-family: 'Oswald', sans-serif;
+  font-size: 26px;
+  text-align: left;
+}
+
+.borda {
+  border: 3px solid #4b4a4a;
+}
+
+.cor2 {
+  background-color: #1b1c1c;
+}
+
+.fundo-card {
+  background-color: ;
+  width: 12rem;
+  height: 38px;
+  /* #dc3545 */
+}
+
+.carH5 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 28px;
+}
+
+.cartxt {
+  font-family: 'Didact Gothic', sans-serif;
+  font-size: 20px;
+}
+
+.bottom {
+  margin-bottom: 5rem;
+}
+
+.carta-but {
+  width: 10rem;
+  font-size: 20px;
+  font-family: 'Oswald', sans-serif;
+}
+
+.modalT {
+  font-size: 28px;
+  font-family: 'Oswald', sans-serif;
+}
+
+.modalInf {
+  font-family: 'Didact Gothic', sans-serif;
+  font-size: 20px;
+}
+
+.modalTxt {
+  font-family: 'Didact Gothic', sans-serif;
+  font-size: 16px;
+}
+
+.menor {
+  font-size: 4rem;
+}
+
+.radius {
+  border-radius: 5px;
+}
+
+.opaco {
+  /* background-color: rgba(66, 66, 66, 0.78) ; */
+  background-color: rgba(231, 76, 60, 0.8);
+}
+
+.ST {
+  font-family: 'Oswald', sans-serif;
+  font-size: 45px;
+  text-align: left;
+}
+
+.STtxt {
+  font-family: 'Didact Gothic', sans-serif;
+  font-size: 24px;
+  text-align: justify;
+}
+
+.jumb {
+  border: 2px solid #E74C3C;
+}
+
+.jumbimg {
+  background-image: url(../images/contato1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.jumbimg1 {
+  background-image: url(../images/contato2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.jumbimg2 {
+  background-image: url(../images/contato3.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.jumbimg3 {
+  background-image: url(../images/contao4.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.jumbimg4 {
+  background-image: url(../images/contao5.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.opaco2 {
+  background-color: rgba(50, 50, 50, 0.73);
+}
+
+.contatosTit {
+  font-family: 'Oswald', sans-serif;
+  font-size: 50px;
+}
+
+.contatosTxt {
+  font-family: 'Didact Gothic', sans-serif;
+  font-size: 20px;
+}
+
+.contatosTel {
+  font-family: 'Didact Gothic', sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.altura {
+  height: 21rem;
+}
+
+.formBut {
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+}
+
+.formTxt {
+  font-family: 'Didact Gothic', sans-serif;
+  font-size: 22px;
+}
+
+.pe {
+  font-family: 'Oswald', sans-serif;
+  font-size: 22px;
+  letter-spacing: 2px;
+}
+
+.peTxt {
+  font-family: 'Didact Gothic', sans-serif;
+  font-size: 18px;
+}
+
+.iconeCo {
+  width: 10rem;
+  height: 10rem;
+}
+
+.InscBut{
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+}
+
+.fa {
+  margin-top: -15px;
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
